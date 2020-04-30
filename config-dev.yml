@@ -1,0 +1,6 @@
+service:
+        port: 8001
+ spring:
+         applicatio:
+                 name: cloud-proment-8001
+
